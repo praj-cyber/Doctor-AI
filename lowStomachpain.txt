@@ -1,0 +1,22 @@
+
+
+
+
+
+
+problem : stomach pain
+			level   : low
+
+medicine:  Bismuth subsalicylate
+about medicine:
+the active ingredient in OTC medications like Kaopectate® and Pepto-Bismol™,
+protects your stomach lining. Bismuth subsalicylate is also used to treat ulcers,
+upset stomach and diarrhea. Other medicines include cyclizine,
+dimenhydrinate, diphenhydramine, and meclizine.
+
+
+how to use  ::
+
+Take bismuth subsalicylate exactly as directed. 
+Do not take more or less of it or take it more often than recommended by the manufacturer or your doctor. 
+Swallow the tablets whole;

@@ -1,0 +1,13 @@
+ 
+
+
+	problem : fever
+				 
+				medicine:  loperamide hydrochloride (Imodium) or
+ 						bismuth subsalicylate (Pepto-Bismol).
+				use     : two times a day
+
+
+
+about::
+Imodium A-D and Pepto-Bismol are both available over the counter without a prescription. They treat diarrhea

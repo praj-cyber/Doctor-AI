@@ -1,0 +1,10 @@
+problem : cold
+				 
+				medicine: guaifenesin,dextromethorphan
+				use     : two times a day
+
+
+about::
+Cough suppressants , like dextromethorphan, can provide relief for a short time. 
+They work on the part of your brain that controls the process.
+Expectorants, like guaifenesin, can break up congestion in your chest by thinning the mucus in your airways.

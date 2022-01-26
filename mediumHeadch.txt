@@ -1,0 +1,18 @@
+ 	
+
+
+	problem : headch
+				level   : heigh
+				medicine: Ibuprofen
+				use     : two times a day
+
+
+
+
+about::
+
+Ibuprofen is a nonsteroidal anti-inflammatory drug (NSAID). 
+It works by reducing hormones that cause inflammation and pain in the body. 
+Ibuprofen is used to reduce fever and treat pain
+ or inflammation caused by many conditions such as headache, 
+toothache, back pain, arthritis, menstrual cramps, or minor injury.
